@@ -1,0 +1,24 @@
+.carduser{
+z-index: 5;
+}
+.tabuser{
+margin-bottom:150px;
+}
+.thead{
+    width: 500px;
+}
+.cardAxios{
+background-color: rgb(255, 255, 255) !important;
+
+}
+
+.apiCard{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(129, 21, 21);
+    padding: 50px;
+    text-align: center;
+}
+.apiCard h1{
+    color: rgb(11, 11, 161);
+}
